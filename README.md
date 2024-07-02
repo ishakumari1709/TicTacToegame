@@ -3,7 +3,7 @@ This is a simple Tic-Tac-Toe game implemented in Python. The game is played in t
 
 GAME PLAY INSTRUCTIONS:
 
-1.The game begins with a welcome message: "Welcome to Tic Tac Toe Game by Isha".
+1.The game begins with a welcome message.
 
 2.Players take turns to enter their move in the format row,column (e.g., 1,1 for the top-left cell).
 
