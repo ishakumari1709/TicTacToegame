@@ -1,7 +1,7 @@
 # TicTacToegame
 This is a simple Tic-Tac-Toe game implemented in Python. The game is played in the console, allowing two players to take turns marking the cells in a 3×3 grid with `X` and `O`.
 
-Gameplay Instructions:
+GAME PLAY INSTRUCTIONS:
 
 1.The game begins with a welcome message: "Welcome to Tic Tac Toe Game by Isha".
 
@@ -16,7 +16,7 @@ Gameplay Instructions:
 
 6.The game ends with the message "Better luck next time" if no winner is found.
 
-Features:
+FEATURES:
 
 1.User-Friendly Input: Players enter their moves using a simple row and column format.
 
@@ -26,7 +26,8 @@ Features:
 
 4.Console Output: The current state of the board is displayed after each move.
 
-Code Explanation:
+CODE EXPLANATION:
+
 1.print_board(board): Prints the current state of the game board.
 
 2.check_winner(board, player): Checks if the specified player has won the game.
